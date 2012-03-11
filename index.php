@@ -71,6 +71,36 @@ while ($row = mysql_fetch_assoc($res)) {
     22:04 &lt;whalspotter&gt; ja de er jo gode til å pisse på folk, så hvorfor ikke?
     22:05 &lt;pengwen&gt; fiska litt etter å ta voldsom og krass avstand fra alt det andre lavpanna jeg da men
     22:06 &lt;whalspotter&gt; tar meg en dyr øl jeg og driter i politikk idag!</pre></code>
+
+    <li><b>Fremmed(bakterie)kultur!</b><br>
+
+
+    Vi vil ha fargerike felleskap! Ostene våre skal ikke bare være gule med hul i
+     alle ender. Vi vil ha jomfrulige oster, med blek hy og tilsynelatende uten
+     brukbare hull. Også forlanger vi blå ost som ikke er magisk og som har smelta
+     oppi en kjip plastburk. Vi forventer også svensk ost med fine bilder på. Vi
+     FORLANGER at brien blir billigere. Dette er en vesentlig del av DGPs
+     familiepolitikk fordi vi vet hvor mye dette påvirker kvinners økonomi og
+     velvære. Hvor dyre skal egentlig disse ost og vin-kveldene være?! Og brien
+     skal ikke være den smakløse fra Tine, men sånn saftig upastourisert guffe
+     FULL av ekkel fremmed bakteriekultur! Kanskje tilogmed med litt geitemelk
+     oppi og!
+    <pre><code>
+    Fra plenumsbehandlingen:
+    23:02 <@jmaister> pengwen: er det gule parti mot tollbarrièrer på ost?
+    23:02 <@jmaister> Jeg tror det skjønner du
+    23:03 < pengwen> jmaister: hva galt har fremmedkluturell ost gjort oss
+     egentlig? når voldtok de sist bestemora di?
+    23:03 <@jmaister> nettopp
+    23:04 <@jmaister> OST TIL FOLKET!
+    23:04 <@jmaister> Ned med meierimonopolistene
+    23:04 < pengwen> og Synnøve er søt?
+    23:05 < pengwen> Søtere enn hu Tine som er så grundig og gjentatt 
+    eid av de gamle grisebøndene?
+    23:05 < pengwen> joda, ser potensialet for en paragraf der
+    23:07 < Mortis360> Skulle gjerne kjøpt ost fra a synnøve jeg, 
+    men liker norvegia mye bedre...
+    </pre></code>
   <li><b>Den femte statsmakt</b><br>
     Selv om vi alle beundrer parces høyrehånd så er Frenors en soleklar vinner. Og derfor innføres også vår nye diktator med skyhøye kneløft og fanfare! Mongothea er sjef, sjefen over alle sjefer (også de med rødt skjegg).
     <code><pre>    23:39 < frenor> o/ o/ o/ o/ o/ o/ o/ o/ o/ o/ o/ o/ o/ 

@@ -19,13 +19,10 @@ include('functions.php');
 </div>
 <div class="head">
    <h1> Det Gule Parti </h1>
-   <p> - we piss on you all!</p>
+   <p><i>we piss on you all!</i></p>
    <p style="margin-left:1em;font-size:50%">(we even make your mail yellow)</p>
+   <p style="margin-left:2em;font-size:30%">(but not your snow... that would be evil!)</p>
 </div> <!--END HEAD-->
-<?
-if (isset($_GET['takk'])) echo "<p class=\"takk\">Din signatur er registrert. Takk for din støtte! Husk, spre det gule ord!</p>";
-?>
-
 <div class="floatright" style="clear:both">
 <h2>Gult i nyhetene!</h2>
 <?
@@ -34,16 +31,7 @@ print RSS_Links("http://news.google.com/news?um=1&ned=us&hl=en&q=gult+site%3A.no
 ?>
 
 <h2>Hvor langt er vi unna å stille til valg i ditt fylke?</h2>
-<?
-$res = runsql("select fylke, count(fylke) as c from sign group by fylke order by c desc;"); 
-while ($row = mysql_fetch_assoc($res)) {
-  ?>
-  <p style="margin-bottom:0px;">  <?=$row['fylke']?>:<?=$row['c']?> av 500 signaturer vi trenger
-  <div style="border:solid 1pt #33FF99;width:170px;height:5px;"><div style="background:#33FF99;width:<?=$row['c']?>px;height:5px;">&nbsp;</div></div>
-  </p>
-  <?
-}
-?>
+Hørt om byen Vahdat i Tajikistan? Ikke det? Vel.. SÅ langt unna er vi!
 
 <h2> Spre det gule ord!</h2>
 <p>
@@ -57,7 +45,20 @@ while ($row = mysql_fetch_assoc($res)) {
 <h2>Partiprogram</h2>
 <p>Punkter til et fremtidig partiprogram:</p>
 
-<ul>
+<ul> 
+  <li><b> Gule (om) overgrep!</b><br>
+    <code><pre>  09:54 <@jmaister> http://www.frp.no/nor/Aktuelt/Vil-medisinsk-kastrere-pedofile
+09:54 <@Turid> "Vil medisinsk kastrere pedofile - Fremskrittspartiet"
+09:54 <@jmaister> "Vil bekjempe overgrep med overgrep"
+09:55 <+pengwen> "Vil medisinsk kastrere freppere - Detguleparti"
+09:55 <@jmaister> :D
+09:55 <+pengwen> jmaister: en linje dgp støtter fullt ut!
+09:55 <@jmaister> VEDTATT
+09:55 <@zenith> ^</code><pre>
+  <li><b> Det gule parti oppsummerer om romfart, verdensrommet og alt det onde som skjer der:</b><br>
+  <img src="http://detguleparti.org/posterboi/?DGP%20SUGER%20HOPPETAU"/>
+  <li><b> Action!</b><br>
+  <pre>      10:07 < Alfadir> http://www.detguleparti.org/ skjer lite der</pre>
   <li><b>Samene - de elskede!</b><br>
     Kniver er knall! Også liker Parce kewle sko. Så vi må inn på Sametinget! DGPs lokale representant stiller til valg på mye det samme som frp... Nedleggelse av Stortinget så Sametinget får all makt (eller var det omvendt) så Norge igjen blir ett rike.
     <code>
@@ -125,7 +126,7 @@ while ($row = mysql_fetch_assoc($res)) {
 &lt; overagnar&gt; pengwen, jeg skal skrive en paragraftekst, erru heldig får du den om noen måneder<br/>
   <li><b>Sur nedbør må komme tilbake!</b> Hvordan skal man kunne motivere folk til å jobbe mot evig status som engler når englene tydligvis ikke lenger får lov til å drikke skikkelig cola?! Cola _med_ sukker på søte små glassflasker gir jo mer hyggelig <i>gul</i> urin. Ergo må jo englene gå på vann eller *grøss* lettbrus, stakkars. Så glasscola må tilbake på den himmelske diet. Nå! (Og ja krf, vi danner gjerne regjering med dere så lenge vi får lov til å bestemme alt.) <br/>GULT ER KULT!</li>
   <li><b>Utvandring må likestilles landsforræderi</b>. Det er jo opplagt at dersom man er redd for at blonde blåøyde  skal bli i mindretall i Norge er det minst like viktig å ikke la rottene forlate skipet som det er å passe seg for pirater som border det.</li>
-  <li><b>UTF8 skal tvangsinnføres ved lov.</b> Det norske samfunn bruker i dag bortimot uendelige beløp på å få norske tegn til å virke. Det gjelder på alt fra kassalappen til stortingsvalgslister. Derfor vil vi at det skal bli forbudt å bruke utstyr eller programvare som støtter andre tegnsett enn utf8. En naturlig følge av dette er økte straffer for datakriminalitet og mer penger til både politi og tollvesen for å nedkjempe problemet. Det må også tillates simulert drukning, balleknipsing og tilsvarende agressive metoder for å avdekke ISO-celler og stoppe ISO-handlinger før de igjen skaper katastrofe blandt sivilbefolkningen.</li>
+  <li id="tilzenith"><b>UTF8 skal tvangsinnføres ved lov.</b> Det norske samfunn bruker i dag bortimot uendelige beløp på å få norske tegn til å virke. Det gjelder på alt fra kassalappen til stortingsvalgslister. Derfor vil vi at det skal bli forbudt å bruke utstyr eller programvare som støtter andre tegnsett enn utf8. En naturlig følge av dette er økte straffer for datakriminalitet og mer penger til både politi og tollvesen for å nedkjempe problemet. Det må også tillates simulert drukning, balleknipsing og tilsvarende agressive metoder for å avdekke ISO-celler og stoppe ISO-handlinger før de igjen skaper katastrofe blandt sivilbefolkningen.</li>
   <li><b>Jul før advent.</b> Hvorfor har noen fått det for seg at julebrus, juledekor og julesanger er noe som best egner seg før advent? Denne betaversjonen av jul er dårskap og må dermed forbys. Foreslått strafferamme er truserøsk og julegaveinndragelse.</li>
   <li id="og_til_slutt"><b> ... og til slutt</b>  en linje om at alle som pirker Limbeck på nesen må få seg et  megatruserøsk og en smekk på pungen </li>
 </ul>
@@ -181,15 +182,5 @@ Kun navn og fylke blir publisert. Epostadresse brukes kun til invitasjon til val
   19:11 &lt; pengwen&gt; Kula: vi er akkurat i gang med stiftelsesmøtet til Det Gule Parti. erru me?
   19:11 &lt; Kula&gt; Jepp!
   19:11 &lt; Kula&gt; Nå er det bare å dra på seg gullbuksene. Det er lørdag!
-  </pre>
-<?
-/** 
- * Notater:
- * DONEVi trenger: Navn, fødselsdato, bostedsadresse, fylke, epostadresse, dato for underskrift
- * Skjema for underskrift
- * Graf for antal signaturer i hvert fylke
-*/
-?>
-
 </body>
 </html>

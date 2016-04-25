@@ -44,7 +44,7 @@ Hørt om byen Vahdat i Tajikistan? Ikke det? Vel.. SÅ langt unna er vi!
 
 <ul>
   <li><b> Gul mediefrihet</b><br>
-    <p>Siden Anonsen er slik en enorm kylling må vi be om et gulere mediebilde. DGP kommer til å jobbe for et uringult kyllingfarga tolkningsgrunnlag for begrepet "fri presse". Og mediefolk med makt kan spandere kaffe på oss når som helst
+    <p>Siden Anundsen er slik en enorm kylling må vi be om et gulere mediebilde. DGP kommer til å jobbe for et uringult kyllingfarga tolkningsgrunnlag for begrepet "fri presse". Og mediefolk med makt kan spandere kaffe på oss når som helst. Gjerne umusikalsk kaffe!
     <p>Fra plenumsbehandlingen:  <code>
       <pre>
     13:22 <@jmaister> topic burde være standardsvar til pressen fra DGPs folkevalgte

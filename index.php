@@ -48,7 +48,7 @@ Hørt om byen Vahdat i Tajikistan? Ikke det? Vel.. SÅ langt unna er vi!
     <p>Fra plenumsbehandlingen:  <code>
       <pre>
     13:22 <@jmaister> topic burde være standardsvar til pressen fra DGPs folkevalgte
-    (topic:  – Jeg vet ikke helt hva som har gått galt, og vi har heller ikke prioritert å finne det ut.) </code><pre>
+    (topic:  – Jeg vet ikke helt hva som har gått galt, og vi har heller ikke prioritert å finne det ut.) </pre></code>
   <li><b> Gule (om) overgrep!</b><br>
     <code><pre>  09:54 <@jmaister> http://www.frp.no/nor/Aktuelt/Vil-medisinsk-kastrere-pedofile
 09:54 <@Turid> "Vil medisinsk kastrere pedofile - Fremskrittspartiet"

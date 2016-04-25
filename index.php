@@ -1,7 +1,4 @@
-<?
-include('functions.php');
-
-?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
@@ -45,7 +42,12 @@ Hørt om byen Vahdat i Tajikistan? Ikke det? Vel.. SÅ langt unna er vi!
 <h2>Partiprogram</h2>
 <p>Punkter til et fremtidig partiprogram:</p>
 
-<ul> 
+<ul>
+  <li><b> Gul mediefrihet</b><br>
+    Siden Anonsen er slik en enorm kylling må vi be om et gulere mediebilde. DGP kommer til å jobbe for et uringult kyllingfarga tolkningsgrunnlag for begrepet "fri presse". Og mediefolk med makt kan spandere kaffe på oss når som helst
+    Fra plenumsbehandlingen:
+    13:22 <@jmaister> topic burde være standardsvar til pressen fra DGPs folkevalgte
+    (topic:  – Jeg vet ikke helt hva som har gått galt, og vi har heller ikke prioritert å finne det ut.)
   <li><b> Gule (om) overgrep!</b><br>
     <code><pre>  09:54 <@jmaister> http://www.frp.no/nor/Aktuelt/Vil-medisinsk-kastrere-pedofile
 09:54 <@Turid> "Vil medisinsk kastrere pedofile - Fremskrittspartiet"
